@@ -1,1 +1,1 @@
-print("2nd day")
+print("2 nd day")
